@@ -1,4 +1,4 @@
-# Todo List - React
+# Todo List - React <a href="https://mustafa-sayed-m.github.io/todo-list-react/">(Live Site)</a>
 
 ## Table of Contents
 
@@ -74,7 +74,6 @@ Once the project is set up and running, you can:
 
 # Folder Structure
 
-    ```$
     ├── public
     ├── src
     │   ├── components
@@ -84,7 +83,6 @@ Once the project is set up and running, you can:
     ├── .env
     ├── package.json
     └── README.md
-    ```
 
 # Contributing
 
